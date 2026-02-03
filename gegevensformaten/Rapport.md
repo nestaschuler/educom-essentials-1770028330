@@ -1,6 +1,6 @@
 #Gegevensformaten 
 
-Markdown: https://miro.medium.com/v2/resize:fit:1400/0*lzRmzAy5OICef7rK.png 
+Markdown: [link] (https://miro.medium.com/v2/resize:fit:1400/0*lzRmzAy5OICef7rK.png) 
 Bij deze bestanden zie je de tekst geschreven in Markdown, hierbij wordt een opmaaktaal gebruikt. Je ziet in een van de bestanden bijv. #Mou, de # staat voor een kop. 
 De roze tekst in afbeelding van Mou creert het logo waarbij [Mou Icon] en daarna de link? van de afbeelding. 
 De **mou** zoals in een van de afbeeldingen zorgt ervoor dat de tekst dik gedrukt is en wanneer je enkele * gebruikt krijg je schuin gedrukte tekst, een paar regels verder zie je dat _strong_ uiteindelijk schuin gedrukt zal worden. 
